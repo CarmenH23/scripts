@@ -57,3 +57,4 @@ while True:
         break
     
 print(data)
+print ("12345 hello")
